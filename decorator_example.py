@@ -15,3 +15,6 @@ def timer(f):
 @timer
 def some_func():
     print("some text")
+
+    
+print(some_func()) 
